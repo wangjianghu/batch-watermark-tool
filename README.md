@@ -29,6 +29,9 @@
 
 这些启动脚本会自动处理路径问题，找到并启动水印工具的图形界面。
 
+![image](https://github.com/user-attachments/assets/7d88da8b-7633-4283-9990-5a4f87aa5012)
+![image](https://github.com/user-attachments/assets/5b5d3ec6-1fcf-4351-a0b2-ced670413e62)
+
 ### 命令行版本
 
 1. 安装依赖：
